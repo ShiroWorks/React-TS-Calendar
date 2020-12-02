@@ -155,7 +155,7 @@ export const hatchArray: HatchType[] = [
     nr: 21,
     img: './img/21.jpg',
     text:
-      'What is the best evidence that Microsoft has a monopoly? Santa Claus had to switch from Chimneys to Windows.',
+      'What was Santa\'s favorite subject in school? Chemistree.',
     open: false
   },
   {
